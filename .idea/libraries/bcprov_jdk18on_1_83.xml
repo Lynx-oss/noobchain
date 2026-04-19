@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bcprov-jdk18on-1.83">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/libs/bcprov-jdk18on-1.83.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
